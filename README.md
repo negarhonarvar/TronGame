@@ -1,5 +1,5 @@
 # Tron Game
-this game consists of two real-time agents which are trying the create as more walls than their opponent while preventing collision into each other and into boundery walls.The unity Framework is from chillin monitors games.
+This game consists of two real-time agents that try to create more walls than their opponent while avoiding collisions with each other and the boundary walls. The Unity framework is based on Chillin's monitor games.
 
 ## Game Start
 At the beginning of the game, each agent starts at a specific point with a predetermined direction. The map is surrounded by an AreaWall. Additionally, some points inside the map may also contain AreaWall. The maps are always symmetrical, ensuring that neither team has an advantage at the start. Therefore, when implementing your code, you don't need to worry about whether the team is Yellow or Blue.
